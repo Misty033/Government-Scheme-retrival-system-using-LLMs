@@ -47,8 +47,7 @@ Accept user details (e.g., age, occupation, income, region).
 Match user data with scheme eligibility criteria via semantic search.
 Use an LLM to interpret, refine, and explain results.
 Answer natural language questions about specific schemes.
-
-
+    
 ### Tech Stack
 1. Python
 2. BeautifulSoup  – Web scraping
