@@ -1,0 +1,31 @@
+{
+  "url": "https://www.myscheme.gov.in/schemes/pmuy2",
+  "scheme_name": "Pradhan Mantri Ujjwala Yojana 2.0",
+  "State": "Central",
+  "details": "The Pradhan Mantri Ujjawala Yojana (PMUY) is a scheme launched by the Government of India in 2016 to provide free LPG (liquefied petroleum gas) connections to women from below-poverty-line households.",
+  "benefits": [
+    "Cash assistance for PMUY connections is provided by the Government of India - Rs. 1600 (for a connection 14.2kg cylinder/ Rs. 1150 for a 5 kg cylinder).",
+    "The cash assistance covers: Security Deposit of Cylinder \u2013 Rs. 1250 for 14.2 kg cylinder/ Rs. 800 for 5 kg cylinder.",
+    "Pressure Regulator \u2013 Rs. 150.",
+    "LPG Hose \u2013 Rs. 100.",
+    "Domestic Gas Consumer Card \u2013 Rs. 25.",
+    "Inspection/ Installation/ Demonstration charges \u2013 Rs. 75.",
+    "All PMUY beneficiaries will be provided with first LPG refill and Stove (hotplate) both free of cost along with their deposit-free connection by the Oil Marketing Companies (OMCs)."
+  ],
+  "eligibility": [
+    "Adult women belong to any of the following categories: SC Households, ST Households, Pradhan Mantri Awas Yojana (Gramin), Most Backward Classes, Antyodaya Anna Yojana (AAY), Tea and Ex-Tea Garden tribes, Forest Dwellers, People residing on Islands and River Islands, SECC Households (AHL TIN), Poor Household as per 14-point declaration",
+    "Applicant must have attained 18 years of age.",
+    "There should not be any other LPG connections in the same household."
+  ],
+  "application_process": [
+    "Offline",
+    "Online"
+  ],
+  "documents_required": [
+    "Know Your Customer(KYC)",
+    "Ration Card issued by the State from which application is being made/ other State Govt. document certifying family composition/ Self-Declaration as per Annexure I (for migrant applicants)",
+    "Aadhaar of the beneficiary and adult family members appearing in the document at Sl. 2",
+    "Proof of Address - Aadhaar will be taken as Proof of Identity and Proof of Address if the connection is required in the same address.",
+    "Bank Account Number and IFSC"
+  ]
+}

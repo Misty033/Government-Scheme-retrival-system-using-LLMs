@@ -1,0 +1,31 @@
+{
+  "url": "https://www.myscheme.gov.in/schemes/gaoah",
+  "scheme_name": "Grant In Aid To Old Age Home",
+  "State": "Maharashtra",
+  "details": "The \"Grant in Aid to Old Age Home\" is a scheme by the Dept. of Social Justice & Special Assistance, Govt. of Maharashtra. In this scheme, grants are provided to the NGOs for accommodating old men and women, destitute, and disabled victims, into Old age Homes, and providing them with facilities such as food, accommodation, resort, Free lodging & Boarding & Medical Assistance, etc.",
+  "benefits": [
+    "Grants are provided to the NGOs for accommodating old men and women, destitute, and disabled victims, into Old age Homes.",
+    "Facilities such as food, accommodation, resort, Free lodging & Boarding & Medical Assistance, etc. are provided."
+  ],
+  "eligibility": [
+    "The applicant should be a registered Non-Governmental Organization (NGO).",
+    "The applicant should only accommodate old/destitute/disabled victims.",
+    "In the case of old men, the age should be 60 years and above. In the case of old women, the age should be 55 years and above.",
+    "The old age person should be a citizen of India.",
+    "The old age person should be a permanent resident of the state of Maharashtra."
+  ],
+  "application_process": [
+    "Visit the District Social Welfare Office and request a hard copy of the format of the application form for the scheme from the concerned authority.",
+    "Fill in all the mandatory fields, paste the passport-sized photograph (signed across), and attach all the (self-attested) mandatory documents.",
+    "Submit the duly filled and signed application form along with the documents to the Assistant Commissioner, District Social Welfare Office.",
+    "Acquire the receipt/acknowledgment of the successful submission of the application form from the District Social Welfare Office."
+  ],
+  "documents_required": [
+    "Aadhaar Card.",
+    "2-Passport Sized Photograph (Signed Across).",
+    "Residential Certificate / Domicile Certificate of the State of Maharashtra.",
+    "Details of the Bank Account (Bank Name, Branch Name, Address, IFSC, etc).",
+    "Proof of Age (Birth Certificate, etc).",
+    "Any other document required by the District Social Welfare Office."
+  ]
+}

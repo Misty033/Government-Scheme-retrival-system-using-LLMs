@@ -1,0 +1,37 @@
+{
+  "url": "https://www.myscheme.gov.in/schemes/csfbscss",
+  "scheme_name": "Consolidated Stipend Scheme for Scheduled Caste Students Pursuing Higher Education",
+  "State": "Haryana",
+  "details": "The scheme aims to attract Scheduled Caste (SC) students towards higher education and provide financial support to cover miscellaneous expenses.",
+  "benefits": [
+    "Stipend Amount: Eligible SC students receive \u20b91,000/- per month.",
+    "Hostel Stipend: Additional \u20b9500/- per month for 12 months for students availing hostel facilities."
+  ],
+  "eligibility": [
+    "The applicant should belong to the Scheduled Caste (SC) category.",
+    "The applicant should be a domicile of Haryana.",
+    "The applicant should be studying in a government college in Haryana.",
+    "The applicant should have passed the previous academic year examination.",
+    "The applicant should maintain at least 60% attendance to receive the stipend."
+  ],
+  "application_process": [
+    "Online registration on the Har-Chhatravratti Portal (Centralized Scholarship Portal) of the Department of Higher Education, Haryana.",
+    "Fill in the online form of the scheme, upload all the mandatory documents, and submit the application."
+  ],
+  "documents_required": [
+    "Aadhaar Card Copy",
+    "Applicant\u2019s Photograph",
+    "Applicant's Signature",
+    "Income Certificate",
+    "Haryana Domicile Certificate",
+    "Caste certificate",
+    "10th Class Certificate",
+    "12th Class Certificate",
+    "Parivar Pehchaan Patra",
+    "Fee Receipt",
+    "Last Exam Passed Certificate (Except for 1st Year Students)",
+    "BPL Certificate (if applicable)",
+    "Father's Death Certificate (if applicable)",
+    "Any other documents as required"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "url": "https://www.myscheme.gov.in/schemes/pvpmc",
+  "scheme_name": "Pichda Varg Post Matric Chhatravritti",
+  "State": "Madhya Pradesh",
+  "details": "Under Pichda Varg Post Matric Chhatravritti Madhya Pradesh Government aimed at providing financial assistance to economically disadvantaged students belonging to these marginalized communities.",
+  "benefits": [
+    "Monthly subsistence allowance",
+    "Reimbursement of non-refundable fees compulsorily paid by the student",
+    "Reimbursement of full tuition fees and other mandatory fees to the students of self-financed courses run in government colleges/government universities",
+    "Payment of fees for enrolment/registration, tuition, sports, uniform, library, magazines, medical check-up, etc"
+  ],
+  "eligibility": [
+    "The applicant should be a native of Madhya Pradesh belonging to a backward class",
+    "The applicant should be passed in the previous class",
+    "The total annual income of parents/guardians should not exceed \u20b93,00,000/-"
+  ],
+  "application_process": [
+    "Registration",
+    "Fill in the required details accurately in the registration form",
+    "Login and select your scheme name",
+    "Enter your name, father's name, samgra ID, Aadhar number, bank account etc",
+    "Upload your photo, signature and important documents",
+    "Submit the application"
+  ],
+  "documents_required": [
+    "Aadhar card",
+    "Bank account statement",
+    "Mark sheet",
+    "Address proof",
+    "Proof of income",
+    "Passport-size photograph",
+    "Mobile number"
+  ]
+}

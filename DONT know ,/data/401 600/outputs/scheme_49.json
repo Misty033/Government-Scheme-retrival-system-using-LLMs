@@ -1,0 +1,25 @@
+{
+  "url": "https://www.myscheme.gov.in/schemes/iwp-andhra",
+  "scheme_name": "INDIRAMMA Widow Pension (Rural)",
+  "State": "Andhra Pradesh",
+  "details": "Launched in 2006-07, the scheme \"INDIRAMMA Widow Pension (Rural)\" by the Department of Rural Development, Government of Andhra Pradesh, aims to disburse monthly pensions to widows, irrespective of their age. To be eligible, they should be from a BPL family, be a resident of the district, and not be covered under any other Pension Scheme. The eligible widows will be identified by their respective Gram Sabhas. The Panchayat Secretary disburses the pension to the eligible widows on the first date of every month.",
+  "benefits": [
+    "Pension Amount: The scale of benefit under the pension will be notified by the Government of Andhra Pradesh.",
+    "Mode of Disbursement: The Panchayat Secretary disburses the pension to the eligible citizens, in the presence of Sarpanch, Gram Panchayat Members and the Office Bearers of Village Organization.",
+    "Time of Disbursement: The pension is disbursed on the first date of every month."
+  ],
+  "eligibility": [
+    "The applicant should be from a Below Poverty Line (BPL) family.",
+    "The applicant should be a local resident of a district of Andhra Pradesh.",
+    "The applicant should be from a rural area.",
+    "The applicant should not be covered under any other Pension Scheme.",
+    "The applicant should be a Widow."
+  ],
+  "application_process": "Offline. The eligible citizens will be identified by their respective Gram Panchayat during the Gram Sabhas. The Panchayat Secretary maintains a register of eligible persons and sends the Gram Sabha resolution recommending eligible persons to the Mandal Parishad Development Officer (MPDO).",
+  "documents_required": [
+    "Proof of Age",
+    "Domicile Certificate",
+    "Below Poverty Line (BPL) Certificate",
+    "Proof of Widowhood"
+  ]
+}

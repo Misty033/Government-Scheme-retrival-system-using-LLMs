@@ -1,0 +1,37 @@
+{
+  "url": "https://www.myscheme.gov.in/schemes/sasy",
+  "scheme_name": "Shramik Auzaar Sahayata Yojana",
+  "State": "Jharkhand",
+  "details": "Nirman Shramik Auzaar Sahayata Yojana is a Social Welfare Scheme by the Department of Labour, Employment, Training & Skill Development Govt of Jharkhand. The scheme is also known as the Toolkit Assistance Scheme for Construction Workers in English. This is a 100% State Sponsored Scheme. Only the residents/domicile of the state of Jharkhand can apply to this scheme. The applications for this scheme are accepted online through the official website of the department (http://shramadhan.jharkhand.gov.in). Occupation related Toolkit or the Equivalent Amount (whichever is less) shall be reimbursed.",
+  "benefits": [
+    "The Occupation-related Toolkit or the Equivalent Amount (whichever is less) shall be reimbursed."
+  ],
+  "eligibility": [
+    "The applicant should be a domicile in the state of Jharkhand.",
+    "The applicant should be a registered Construction Worker (Nirmaan Shramik).",
+    "The applicant should be engaged in construction work such as masons, carpenters, electricians, porters, painters, etc.",
+    "The applicant should be 18 years or above in age.",
+    "The applicant should not already have availed of the benefits of this scheme."
+  ],
+  "application_process": [
+    "Online registration on the official website of Comprehensive Labour Management System for Factory Establishment / Worker Registration / Inspection / Management & Grievance Redressal; Department of Labour, Employment, Training & Skill Development; Govt. of Jharkhand.",
+    "Fill in the mandatory details such as First Name, Last Name, Email, and Mobile.",
+    "Create a Username and a Password.",
+    "Fill in the Captcha Code and click Register.",
+    "Login to the portal and fill in the Application Form.",
+    "Upload the mandatory documents in the specified file size and file type.",
+    "Submit the application and note down the Application ID for future reference."
+  ],
+  "documents_required": [
+    "Aadhaar Card",
+    "Residential Certificate / Domicile Certificate",
+    "Proof of Age / Date of Birth",
+    "eSHRAM Card",
+    "Passport Sized Photograph",
+    "Proof of Registration as a Construction Worker.",
+    "A declaration that no trade tool kit has been obtained by the applicant.",
+    "Details of the Bank Account",
+    "Income Certificate",
+    "Receipt of the Purchase of the Toolkit"
+  ]
+}

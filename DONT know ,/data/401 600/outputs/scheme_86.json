@@ -1,0 +1,35 @@
+{
+  "url": "https://www.myscheme.gov.in/schemes/rmewf-penury",
+  "scheme_name": "RMEWF-Financial Assistance For Ex-Servicemen In Penury",
+  "State": "Central",
+  "details": "A scheme to provide financial assistance to non-pensioner Ex-Servicemen up to rank of Havildar /equivalent and their widows who are living in extreme poverty.",
+  "benefits": [
+    "A financial assistance of Rs.4000/- per month is paid Annually to the eligible Ex-Servicemen or their widows."
+  ],
+  "eligibility": [
+    "Must be a non-pensioner ESM or his widow.",
+    "Should be of rank Havildar/equivalent from the Navy/AF and below.",
+    "The ESM/widow should be 65 years of age on 01 Apr of the Financial Year in which applying.",
+    "After demise of ESM who was already availing the Penury Grant, his widow is eligible for Penury grant irrespective of her age at the time of the death of ESM."
+  ],
+  "exclusions": [
+    "Ex-Servicemen receiving Pension are not covered under this scheme"
+  ],
+  "application_process": [
+    "Online application can be submitted between 01 Apr to 01 Mar (every year) through the link - https://164.100.158.73/registration.htm",
+    "Scanned Copies of the supporting documents must be uploaded with the online application.",
+    "Once the online application is submitted successfully, individual will be given a system generated application number, which he/she should note down for future reference.",
+    "The uploaded documents and certificates shall be verified By ZSWO.",
+    "Once this verification process is over, Submitted Online Application is recommended by ZWSO.",
+    "The application is then processed for payment by Welfare Section.",
+    "The welfare section verifies the Ex-servicemen's service number, name, banker's IFS Code and bank account number & forward the list of approved cases to Accounts Section for payment."
+  ],
+  "documents_required": [
+    "Scanned copies of Service Document/Discharge Book of ESM",
+    "Age proof, if date of birth not given in the Service Document / Discharge Book.",
+    "Identity Card of ESM / Widows issued by Zonal Sainik Board.",
+    "First page of Bank Pass book and a cancelled cheque in case details of Bank A/c Number, IFS Code and account holder\u2019s personal particulars are not given in first page of Bank Pass book.",
+    "Copy of Aadhar Card.",
+    "Certificate of penury to state that the applicant does not have any source of income signed by Sarpanch/ Patwari/ BDO (revenue officials) affixed with his rubber stamp & round seal."
+  ]
+}

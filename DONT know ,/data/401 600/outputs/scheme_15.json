@@ -1,0 +1,29 @@
+{
+  "url": "https://www.myscheme.gov.in/schemes/mssg",
+  "scheme_name": "Mahila Swavlamban Scheme",
+  "State": "Gujarat",
+  "details": "The \"Mahila Swavlamban Scheme\" launched by the Women and Child Development Department, Gujarat, aims to empower women by providing financial assistance for starting or expanding economic activities. This initiative targets women from rural and urban areas, especially those from families living below the poverty line. The scheme offers a subsidy and a loan to support the economic development of women, helping them become self-reliant.",
+  "benefits": [
+    "Subsidy Support: A subsidy of 15% or up to \u20b930,000/- (whichever is lower) is provided to eligible women to support their business ventures.",
+    "Loan Facility: Women can avail of loans up to \u20b92,00,000/- to start or expand their economic activities."
+  ],
+  "eligibility": [
+    "The applicant must be a woman.",
+    "The applicant must be a resident of Gujarat.",
+    "The applicant must belong to the BPL (Below Poverty Line) category",
+    "The applicant's annual income must be \u20b91,20,000/- in rural areas and \u20b91,50,000/-in urban areas."
+  ],
+  "application_process": [
+    "Offline",
+    "Step-1: The applicant must fill out the prescribed form with complete details.",
+    "Step-2: Submit the form along with the necessary documents to the Women's Economic Development Corporation."
+  ],
+  "documents_required": [
+    "Age proof.",
+    "Aadhaar card.",
+    "Quotation for business activities.",
+    "Experience certificate.",
+    "Income proof.",
+    "Copy of Ration card."
+  ]
+}

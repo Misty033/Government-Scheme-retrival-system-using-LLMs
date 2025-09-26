@@ -1,0 +1,35 @@
+{
+  "url": "https://www.myscheme.gov.in/schemes/dlsk",
+  "scheme_name": "Direct Loan Scheme Karnataka",
+  "State": "Karnataka",
+  "details": "The \"Direct Loan Scheme\" was implemented by Karnataka Leather Industries Development Corporation Ltd, Department of Social Welfare, Govt of Karnataka. The scheme aims to provide financial assistance to unemployed scheduled caste individuals from the leather artisan community to start small businesses and empower artisans and improve their livelihoods by providing access to capital to start or expand small-scale enterprises.",
+  "benefits": [
+    "Financial assistance with a 50% subsidy and 50% loan.",
+    "Total unit cost is \u20b91,00,000/-.",
+    "Loan repayment in 24 equal installments with a 4% interest rate."
+  ],
+  "eligibility": [
+    "The applicant should be leather artisans.",
+    "The applicant should belongs to sub-castes Arundathiyar, Chammadiya, Chamar, Chambar, Chamagar, Madar, Madig, Madiga, Mini Madig, Jambavalu, Haralayya, Machigar, Mochigar, Mochi, muchi, Telugu Mochi, kamaati mocha, Rohidas, Dhor, kakkayya, Kankayya, Samagara, Samagar, Aadhi Anddra, Aadhi Dravida, Aadhi Karnataka among scheduled castes.",
+    "The age of the applicant should be 18 years.",
+    "The applicant's annual family income should not exceed \u20b930,000/- in rural areas and \u20b925,000/- in urban areas.",
+    "The applicant or their family members must not have received benefits from other schemes, except training programs.",
+    "The applicant's family members should not be employed in government or semi-government organizations."
+  ],
+  "application_process": [
+    "Online registration through Seva Sindhu Portal.",
+    "Fill out the application form with required details.",
+    "Submit the application and track the status through the portal."
+  ],
+  "documents_required": [
+    "Aadhaar Card.",
+    "Caste Certificate with RD number.",
+    "Annual Income Certificate.",
+    "Ration Card.",
+    "Passport-size Photograph of the applicant and his/her spouse.",
+    "Bank Passbook.",
+    "Detailed Project Report.",
+    "Profession Certificate/Skill Test Certificate (issued by the Technical section committee of the Corporation).",
+    "Loan Documents."
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "url": "https://www.myscheme.gov.in/schemes/pmuy",
+  "scheme_name": "Pradhan Mantri Ujjwala Yojana",
+  "State": "Central",
+  "details": "A scheme by Ministry of Petroleum and Natural Gas for Providing free LPG connections to women belonging to the Below Poverty Line (BPL) households.",
+  "benefits": [
+    "Rs. 1600 for a connection 14.2kg cylinder or Rs. 1150 for a 5 kg cylinder.",
+    "Additionally, All PMUY beneficiaries will be provided with first LPG refill and Stove (hot plate) both free of cost along with their deposit free connection."
+  ],
+  "eligibility": [
+    "An adult woman belonging to a poor household and not having an LPG connection in her household will be eligible under UJJWALA 2.0.",
+    "The beneficiaries should belong to any of the following categories:",
+    "1. Eligible as per SECC 2011 list",
+    "2. Belongs to SC/ST households, be a beneficiary of Pradhan Mantri Awas Yojana (PMAY), Antyodaya Anna Yojana (AAY), Forest dwellers, Most Backward Classes (MBC), Tea and Ex-Tea Garden Tribes, People residing in river islands (Beneficiary will submit supporting document)",
+    "3. If she is not falling in the above 2 categories, then she can stake her claim to be a beneficiary under Poor household by submitting 14-point declaration (as per prescribed format)"
+  ],
+  "exclusions": [
+    "Male Member from a household cannot apply for the scheme."
+  ],
+  "application_process": [
+    "Online",
+    "1. Following are the prerequisites for the enrollment process:",
+    "2. Apply the application form through online [official website](https://www.pmuy.gov.in/).",
+    "3. Select the oil company name example Indane / Bharatgas / HP Gas",
+    "4. Select Type of Connection like Ujjwala 2.0 New Connection",
+    "5. Choose State, District and Name of Distributor.",
+    "6. Enter Mobile Number, Captcha and OTP.",
+    "7. Select Migrant Family status in YES or NO",
+    "8. For family Identifier in NO fill Annexure 1 ",
+    "9. For family Identifier in Yes fill Ration Card ",
+    "10. Select Category.",
+    "11. Fill all Family Details, Personal details, address details, bank details, Choose Cylinder Types, Select rural or urban and select declaration and submit.",
+    "12. Generate Reference number and visit Gas agency."
+  ],
+  "documents_required": [
+    "1. Valid Photo ID",
+    "2. Ration Card issued by the State from which application is being made/ other State Govt. document certifying family composition/ Self-Declaration as per Annexure I (for migrant applicants)",
+    "3. Proof of Address - Aadhaar will be taken as Proof of Identity and Proof of Address if the connection is required in the same address. In that case only Aadhaar is sufficient.",
+    "4. Bank Account Number and IFSC.",
+    "5. Aadhaar (not mandatory for Assam and Meghalaya)",
+    "6. Passport size photograph"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://www.myscheme.gov.in/schemes/metfmaiso",
+  "scheme_name": "Medical Expenses for Treatment of Major Ailments (O.B.O.C.W.W.B)",
+  "State": "Odisha",
+  "details": "The \u201cMedical Expenses for Treatment of Major Ailments\u201d scheme by the Building and Other Construction Workers Welfare Board, Labour Department, Odisha, is a welfare scheme for the registered workers of the board. Under this scheme, the Board shall provide financial assistance as medical expenses for the treatment of beneficiary or his/ her dependents suffering from disease of Nervous system (Brain & spine related), Cardiovascular System, Kidney and Cancer. The beneficiary should be registered at least for one year in lines of the Odisha State Treatment Fund.",
+  "benefits": "Quantum of Assistance: \u20b93,00,000/-.",
+  "eligibility": [
+    "The applicant should be a resident of Odisha.",
+    "The applicant should be a Building/ Construction Worker.",
+    "The applicant should be between 18 and 60 years.",
+    "The applicant should have engaged in building and construction work for at least 90 days in a given year.",
+    "The applicant should not be a member of any other Welfare Fund established under any law.",
+    "The applicant should be a registered member of the Odisha Building and Other Construction Workers Welfare Board or the applicant should be a dependent of the member.",
+    "The beneficiary should be registered at least for one year in line of the Odisha State Treatment Fund.",
+    "The applicant should suffer from any major diseases."
+  ],
+  "application_process": [
+    "Online application process:",
+    "Step 1: Visit the official website of the Odisha BOCWW Board.",
+    "Step 2: Click on \u201cOne Time Registration\u201d on the top right side of the page.",
+    "Step 3: Click on the Declaration box and then on the \u201cProceed\u201d button.",
+    "Step 4: In the next window fill in all the required details carefully and click on \u201cProceed\u201d.",
+    "Step 5: Enter the received OTP and click on \u201cSubmit\u201d.",
+    "Step 6: Your account will be successfully created and a Username will be displayed (Keep the Username for future references).",
+    "Offline application process:",
+    "Step 1: Download Form-XXVII and attach all the mandatory documents (self attested, if required) and a fee of \u20b920/- to the District Labour Officers (D.L.O)/ Asst. Labour Officers/ Rural Labour Inspectors of your area."
+  ],
+  "documents_required": [
+    "Aadhaar Linked Bank Passbook Front Page Copy (Allowed file types: PNG, JPG, PDF. Allowed size: less than 500 KB).",
+    "Passport Size Photo (Allowed type: PNG, JPG. Allowed size: less than 500 KB).",
+    "Aadhaar Card (Allowed file types: PNG, JPG, PDF. Allowed size: less than 500 KB).",
+    "Signature of Applicant (Allowed type: PNG, JPG. Allowed size: less than 500 KB).",
+    "Employment certificate (Allowed file types: PNG, JPG, PDF. Allowed size: less than 500 KB).",
+    "Xerox copy of Registration Certificate of the beneficiary duly attested by DLO/ ALO/ RLI of the concerned district.",
+    "Xerox copy of updated annual contribution receipt to be verified by the DLO/ ALO/ RLI of the concerned district.",
+    "Essentiality Certificate to be filled completely and to be signed not below the rank of Assistant Surgeon of Government Hospital.",
+    "All original Bills should be verified by the treating doctor and it should be signed on the face of the bills with a seal.",
+    "In case of disability due to accident caused during employment and as per the OB & OCWW Board Rules, Disability Certificate by a Medical Board to be submitted stating the cause of accidents, percentage of disability with permanent/ temporary nature."
+  ]
+}

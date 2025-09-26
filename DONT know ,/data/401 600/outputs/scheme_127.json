@@ -1,0 +1,71 @@
+{
+  "url": "https://www.myscheme.gov.in/schemes/ifspeta",
+  "scheme_name": "To Increase Fish Seed Production and Inland Fisheries Equipment in Tribal Areas",
+  "State": "Gujarat",
+  "details": "This scheme aims to enhance fish production and provide employment opportunities to Scheduled Tribes (ST) individuals engaged in inland fisheries.",
+  "benefits": [
+    {
+      "component": "Fish Seed Rearing",
+      "standard_of_assistance": "\u20b990/- per 1000 spawn to fry (30% recovery); \u20b9260/- per 1000 fry to fingerlings (35% recovery); \u20b9460/- per 1000 spawn to fingerlings (12% recovery)",
+      "minimum_time_limit": "1 Year"
+    },
+    {
+      "component": "Fish Seed Stocking",
+      "standard_of_assistance": "100% assistance for fish seed and transportation cost",
+      "minimum_time_limit": "1 Year"
+    },
+    {
+      "component": "Prawn Seed Stocking",
+      "standard_of_assistance": "100% assistance for prawn seed and transportation cost for Scheduled Caste lessees",
+      "minimum_time_limit": "1 Year"
+    },
+    {
+      "component": "Boat & Net",
+      "standard_of_assistance": "50% assistance for Tin Boat & Net (\u20b915,000/- or \u20b97,500/-, whichever is less); 50% assistance for F.R.P Boat & Net (\u20b930,000/- or \u20b915,000/-, whichever is less)",
+      "minimum_time_limit": "6 Years"
+    },
+    {
+      "component": "Fish cage culture",
+      "standard_of_assistance": "60% assistance for Scheduled Tribe beneficiaries Unit cost: \u20b93,00,000/-, subsidy: \u20b91,80,000/- or 60% of actual cost, whichever is lower",
+      "minimum_time_limit": "3 Years"
+    },
+    {
+      "component": "Training of Tribal Trainees",
+      "standard_of_assistance": "\u20b92,000/- per month for 3 months (Total \u20b96,000/-)",
+      "minimum_time_limit": "Once in a lifetime"
+    },
+    {
+      "component": "Training Kit",
+      "standard_of_assistance": "\u20b91,250/- stipend after 10-day training; \u20b9125/- per day during training",
+      "minimum_time_limit": "Once in a lifetime"
+    },
+    {
+      "component": "Fish seed rearing by women",
+      "standard_of_assistance": "A kit worth \u20b92,500/- given after completing 3-month training",
+      "minimum_time_limit": "Once in a lifetime"
+    }
+  ],
+  "eligibility": [
+    "Individuals/ societies/ self-help groups/ associations/ reservoir monopolies/ private units etc. involved in inland fisheries activities can avail the benefits of inland schemes.",
+    "The applicant should be a Fisherman.",
+    "The applicant should belong to the Schedule Tribe(ST) category.",
+    "Applicant should be above 18 years of age.",
+    "The beneficiary fisherman must have his own bank account."
+  ],
+  "application_process": [
+    "On the home page, click on \u2018Schemes\u2019 and then click on \u2018Agricultural Schemes\u2019.",
+    "Now select the scheme, click on the \u2018Apply\u2019 button and an application page will open.",
+    "Click on \"Apply New\" button and submit a new application.",
+    "Click on the \"Update Application\" button to add corrections to the application.",
+    "Once the application is done, confirm it.",
+    "Take a print out of the confirmed application."
+  ],
+  "documents_required": [
+    "Aadhaar card.",
+    "Quotation.",
+    "Caste certificate.",
+    "Passport size photo.",
+    "Bank passbook/cancelled cheque.",
+    "Ration card."
+  ]
+}

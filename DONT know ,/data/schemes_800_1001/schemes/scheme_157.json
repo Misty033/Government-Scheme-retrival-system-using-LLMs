@@ -1,0 +1,33 @@
+{
+  "url": "https://www.myscheme.gov.in/schemes/scs",
+  "scheme_name": "Self-Certification Scheme",
+  "State": "Tripura",
+  "details": "The Labour Department, Government of Tripura, launched the Self-Certification Scheme aims at making the employer or an entrepreneur a conscious and truthful citizen and law-abiding person who is willing to take care of all interests of the workers and employees by following all the Labour laws as applicable and enable the Directorate of Labour to effectively protect the interest of the workers as well as the employers and entrepreneurs and create a friendly and safe environment for the workers and a relationship between the Employer and the Employees.",
+  "objective": "The objectives of this Self Certification Scheme is to reduce visits of Government officials for inspection of those units who opt for this Scheme however without compromising on the safety, health, social security and welfare of the workers as provided under the various labour enactments. And also to ensure & enable ease of doing business in the Sate of Tripura.",
+  "benefits": [
+    "Reduces inspection frequency, promoting a business-friendly environment.",
+    "Increases transparency and improves employer-employee relations.",
+    "Covers a range of labor laws to protect worker welfare.",
+    "Reduces administrative burden on the business.",
+    "Provides secure, interest-free refund of security after five years if no violations occur."
+  ],
+  "eligibility": [
+    "All shops, factories, and establishments are eligible to apply.",
+    "Not available to units handling hazardous chemicals or substances as per the Factories Act, 1948 and Tripura Factories Rules, 2007.",
+    "Enrollments must be confirmed with compliance with relevant labor laws."
+  ],
+  "application_process": [
+    "Fill in all the mandatory fields in the application form, and attach copies of all the mandatory documents (self-attest, if required).",
+    "Submit the duly filled and signed application form along with the documents to the Labour Commissioner\u2019s Office Agartala, Tripura.",
+    "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted."
+  ],
+  "documents_required": [
+    "Shop Registration Detail",
+    "Workers Details",
+    "Registration Copy (Attested copy of registration under the Tripura Shops & Establishment Act, 1970, if applicable)",
+    "Registration Copy with attested copy of registration under the Contract Labour (Regulation & Abolition) Act, 1970 (if applicable)",
+    "License Copy under the Contract Labour (Regulation &Abolition) Act, 1970 (if applicable)",
+    "Details of Fees & Security",
+    "Nature of industry/activity - manufacturing, Trading, Services"
+  ]
+}

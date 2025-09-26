@@ -1,0 +1,28 @@
+{
+  "url": "https://www.myscheme.gov.in/schemes/crss",
+  "scheme_name": "Supporting Community Radio Movement in India",
+  "State": "Central",
+  "details": "The Scheme provides financial assistance once the Community Radio is made operational by eligible organisation. The Scheme also has components for capacity building.",
+  "benefits": "Financial assistance is provided once the CRS is made operational by Licensee.",
+  "eligibility": [
+    "An organisation desirous of operating a Community Radio Station (CRS) must be able to satisfy and adhere to the following principles:",
+    "It should be explicitly constituted as a \u2018non-profit\u2019 organisation and should have a proven record of at least three years of service to the local community;",
+    "The CRS to be operated by it should be designed to serve a specific well defined local community;",
+    "It should have an ownership and management structure that is reflective of the community that the CRS seeks to serve;",
+    "Programmes for broadcast should be relevant to the educational, developmental, social and cultural needs of the community;",
+    "It must be a Legal Entity i.e. it should be registered (under the registration of Societies Act or any other such act relevant to the purpose);",
+    "NGOs, registered societies and Public Charitable Trusts shall be registered on NITI Aayog's NGO Darpan portal and the applicant shall provide its Unique ID along with the application."
+  ],
+  "application_process": "Online application through the official portal.",
+  "documents_required": [
+    "Copy of the registration certificate.",
+    "Copy of the memorandum of association/ bye laws etc.",
+    "Complete balance sheets with auditor's report for previous 3 years.",
+    "Map of service area.",
+    "Profile of organization.",
+    "Profile of community residing within 10 Km radius of location of CRS.",
+    "Geo-Coordinates (Latitude and Longitude) of the Location where antenna would be placed.",
+    "Details of All Governing Body Members of organization in the prescribed format.",
+    "Processing fee of Rs. 2500/-."
+  ]
+}

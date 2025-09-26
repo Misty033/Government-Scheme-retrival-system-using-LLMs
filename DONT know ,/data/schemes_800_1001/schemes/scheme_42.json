@@ -1,0 +1,45 @@
+{
+  "url": "https://www.myscheme.gov.in/schemes/wpwb",
+  "scheme_name": "Widow Pension-West Bengal",
+  "State": "West Bengal",
+  "details": "In 2010, the West Bengal state government, through the Women and Child Development and Social Welfare Department, launched a compassionate initiative called the \"Widow Pension\" scheme. This program aims to provide financial support to widows facing economic hardship within the state.",
+  "benefits": [
+    "Financial assistance of \u20b91,000/- per Month through DBT mode to the beneficiaries."
+  ],
+  "eligibility": [
+    "The beneficiary must be a widow girl/woman.",
+    "The beneficiary should attain the age of 60 years or more.",
+    "The beneficiary must be a citizen of India and a resident of West Bengal.",
+    "The beneficiary family income must not exceed \u20b9 1,000/- per month.",
+    "The beneficiary must not be maintained by any of her relative.",
+    "The beneficiary must have been a resident of West Bengal for at least ten years on the date of making the application.",
+    "Professional beggars and mendicants are not eligible for the pension."
+  ],
+  "exclusions": [
+    "An applicant who is already a recipient of a pension under another scheme, such as the Disability Pension, Old Age Pension, or Farmers\u2019 Pension, is not eligible for the Widow Pension."
+  ],
+  "application_process": [
+    "Offline application process",
+    "Application Form (Form-P) can be obtained free of cost from the following offices:",
+    "1. Office of the Block Development Officer or the Executive Officer of the concerned Panchayat Samity in case of the applicant resides in the rural areas under the said Panchayat Samity.",
+    "2. Office of the Sub-Divisional Officer in case of the applicant resides in Municipal / Notified areas outside the areas of Kolkata Municipal Corporation.",
+    "3. Office of the Controller of Vagrancy, West Bengal situated at Purta Bhawan, Bidhan Nagar, Kolkata-700091, in case of the applicant resides within the areas under Kolkata Municipal Corporation.",
+    "Required information for application form:",
+    "1. Person Details.",
+    "2. Contact Details.",
+    "3. Type of Disability and disability percentage.",
+    "4. Bank Account Details.",
+    "5. Required documents"
+  ],
+  "documents_required": [
+    "Copy of Aadhaar self-attested.",
+    "Copy of Ration Card.",
+    "Copy of Voter Id.",
+    "Copy of Disability Certificate.",
+    "Copy of Income Certificate.",
+    "Copy of Husband\u2019s Death Certificate.",
+    "Copy of Bank Pass Book.",
+    "Nomination Form (In case of death).",
+    "Passport Size photograph."
+  ]
+}

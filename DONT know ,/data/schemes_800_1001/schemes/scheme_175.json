@@ -1,0 +1,31 @@
+{
+  "url": "https://www.myscheme.gov.in/schemes/gbsyobc",
+  "scheme_name": "Gagan Bharari Shiksha Yojana for OBC (Dhangar) Students",
+  "State": "Goa",
+  "details": "The scheme aims to provide additional financial assistance to OBC (Dhangar) students to supplement their Post Matric Scholarship maintenance allowance. Through this scheme, additional monthly allowances are provided to OBC (Dhangar) students to meet their food, travel, and disability-related expenses, as the existing Post Matric Scholarship amounts are inadequate.",
+  "benefits": [
+    "Additional Maintenance Allowance: \u20b9750 per month for day scholars and \u20b91,500 per month for hostel residents",
+    "Additional Disability Allowance: \u20b9750 per month",
+    "Duration: 10 months during the academic year"
+  ],
+  "eligibility": [
+    "The applicant should be a Student.",
+    "The applicant should belong to the OBC (Dhangar) community.",
+    "The applicant should have availed (or be eligible for) the Centrally Sponsored Post Matric Scholarship during the current academic year."
+  ],
+  "application_process": [
+    "Online application through the Chief Minister Scholarship Portal, Government of Goa.",
+    "Registration and login required.",
+    "Fill in the application form and upload required documents."
+  ],
+  "documents_required": [
+    "Aadhaar Card",
+    "Caste Certificate (Valid for 3 years from date of issue)",
+    "Income Certificate (Valid for 3 years from date of issue)",
+    "Mark Sheet Certificate (Attested)",
+    "Fees Payment Receipt",
+    "Bank Account Details of Student",
+    "Hostel Certificate (For hostel residents only)",
+    "Passport Size Photos"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "url": "https://www.myscheme.gov.in/schemes/psw",
+  "scheme_name": "Pension Scheme to Widow",
+  "State": "UT of Dadra & Nagar Haveli and Daman & Diu",
+  "details": "The scheme aims to provide financial assistance to widows aged between 18-59 years. This scheme offers \u20b91,000/- per month to help them meet their basic needs. Eligible beneficiaries should be domiciles of Dadra & Nagar Haveli and Daman & Diu, with an annual income not exceeding \u20b91.5 lakh. The pension is discontinued if the widow remarries or enters a live-in relationship. Additionally, beneficiaries should not be receiving financial assistance under any other widow pension scheme. This initiative ensures essential financial support to widows, helping them lead a dignified life.",
+  "benefits": "Under this scheme, widows receive financial assistance of \u20b91,000/- per month. The mode of fund transfer shall be Direct Benefit Transfer (DBT).",
+  "eligibility": [
+    "The applicant should be a domicile of the Dadra & Nagar Haveli and Daman & Diu.",
+    "The applicant should be a widow.",
+    "The applicant should be between 18 and 59 years of age.",
+    "The benefit will be discontinued if the applicant remarries or enters a live-in relationship.",
+    "The applicant's annual income should not exceed \u20b91.5 lakh.",
+    "The applicant should not be receiving financial assistance under any other widow pension scheme."
+  ],
+  "application_process": [
+    "The applicant can collect the application form from the office of the District Panchayat or Municipal Council of the concerned district.",
+    "Alternatively, the application form can be downloaded from the official website.",
+    "The applicant should carefully fill out the application form and attach all necessary documents.",
+    "The duly filled application form, addressed to the Chief Executive Officer/Chief Officer of the concerned District Panchayat/Municipal Council, should be submitted to the Gram Panchayat/District Panchayat/Municipal Council of the concerned district.",
+    "Field-level staff of the District Panchayat/Municipal Council will verify the submitted documents and scrutinize the application.",
+    "The Chief Executive Officer/Chief Officer of the respective District Panchayat/Municipal Council will review and approve the applications."
+  ],
+  "documents_required": [
+    "Proof of Age (In case of non-availability of age proof, the beneficiary shall be referred to Medical Board (Government Hospital) of concern district for verification of age.)",
+    "Death Certificate of spouse issued by Competent Authority",
+    "Income Certificate issued by the Competent Authority",
+    "Domicile Certificate issued by the Competent Authority",
+    "Copy of Bank Pass Book (Aadhaar linked)",
+    "Copy of Aadhaar Card",
+    "Election Card/Passport/Ration card (any one)",
+    "Passport size photographs (2 copies)",
+    "Undertaking/Affidavit (Not getting any pension from any other department) in the prescribed proforma"
+  ]
+}

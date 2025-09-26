@@ -1,0 +1,33 @@
+{
+  "url": "https://www.myscheme.gov.in/schemes/py",
+  "scheme_name": "Pratibha Yojana",
+  "State": "Madhya Pradesh",
+  "details": "This scheme provides financial assistance to Scheduled Tribe students who have passed national competitive examinations such as JEE, NEET, CLAT, AIIMS, and NDA, and have taken admission in IIT, NIT, NLU, MBBS (government colleges located in Madhya Pradesh), AIIMS or NDA.",
+  "benefits": [
+    "A financial assistance of \u20b950,000/- is provided to students whose annual parental income is up to \u20b93,00,000/-.",
+    "A financial assistance of \u20b925,000/- is provided to students whose annual parental income exceeds \u20b93,00,000/-."
+  ],
+  "eligibility": [
+    "The applicant should be a student.",
+    "The student should be a native of Madhya Pradesh.",
+    "The student should belong to the Scheduled Tribe category.",
+    "The applicant's annual family income should not exceed \u20b96,00,000/-.",
+    "The student should have qualified in any of the National Competitive Examinations such as JEE, NEET, CLAT, AIIMS, or NDA.",
+    "The applicant should have been admitted to one of the following institutions: IIT/NIT through JEE, Government colleges in Madhya Pradesh for NEET (MBBS only), AIIMS, NLU through CLAT, or NDA through UPSC."
+  ],
+  "application_process": [
+    "Registration Process: Go to the official website of the Tribal Welfare Department of Madhya Pradesh, click on \u2018MPTAASC\u2019 from the home page, click on \"New Beneficiary Profile Registration\" under the \u2018Login\u2019 section, complete all mandatory fields marked with * and upload the required documents, review your details and click \"Submit.\"",
+    "Application Process: Revisit the official website of the Tribal Welfare Department of Madhya Pradesh, click on \u2018MPTAASC\u2019 from the home page, enter your user ID, password, and captcha code, then click \"Login\", on the dashboard, click \"PMS\" and then select \"Apply for Scheme\", fill out the online application form, upload the necessary documents, and submit it."
+  ],
+  "documents_required": [
+    "Passport-size Photograph",
+    "Aadhaar card",
+    "Domicile certificate of Madhya Pradesh",
+    "Caste certificate",
+    "Income certificate",
+    "Samagra ID",
+    "Proof of admission in the institution",
+    "Bank account details/Bank Passbook",
+    "Other necessary documents if required"
+  ]
+}

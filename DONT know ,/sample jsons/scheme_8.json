@@ -1,0 +1,48 @@
+{
+  "url": "https://www.myscheme.gov.in/schemes/ssyc",
+  "scheme_name": "Saur Sujala Yojana",
+  "State": "Chhattisgarh",
+  "details": "The Saur Sujala Yojana is to set up solar irrigation pumps for the irrigation needs of the farmers. The scheme has been started on November 01, 2016, with the aim of empowering the farmers by providing irrigation pumps to the farmers at subsidized rates.",
+  "benefits": {
+    "category-wise_contribution": [
+      {
+        "pump_capacity": "03 HP/AC/DC Surface/submersible",
+        "sc_st_beneficiary_contribution": 7000,
+        "obc_beneficiary_contribution": 12000,
+        "general_beneficiary_contribution": 18000
+      },
+      {
+        "pump_capacity": "05 HP/AC/DC Surface/submersible",
+        "sc_st_beneficiary_contribution": 10000,
+        "obc_beneficiary_contribution": 15000,
+        "general_beneficiary_contribution": 20000
+      }
+    ],
+    "processing_fee": "Rs. 3000 for 03 H.P. / 3000 W. and Rs. 4800 for 05 H.P. / 4800 W."
+  },
+  "eligibility": {
+    "criteria": [
+      "Small/medium/large-scale farmers are eligible to apply for this scheme.",
+      "The farmer should be a resident of Chhattisgarh State."
+    ]
+  },
+  "application_process": {
+    "steps": [
+      "Open the official Website.",
+      "Click on \"Saur Sujala Yojana Online Apply\".",
+      "Select the scheme name.",
+      "Fill out the required details.",
+      "Provide the bank details and Submit."
+    ]
+  },
+  "documents_required": [
+    "Agricultural land and water source (borewell, well, river/stream etc.) in his own name.",
+    "Application form.",
+    "Attested photocopy of address proof.",
+    "Attested photocopy of Aadhaar card.",
+    "Khasra/area of land and attested map of the workplace.",
+    "Attested photocopy of caste certificate.",
+    "Amount of processing fee.",
+    "Two photographs of the beneficiary."
+  ]
+}

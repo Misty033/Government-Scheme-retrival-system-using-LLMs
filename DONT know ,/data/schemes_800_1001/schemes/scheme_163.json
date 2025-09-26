@@ -1,0 +1,26 @@
+{
+  "url": "https://www.myscheme.gov.in/schemes/goc",
+  "scheme_name": "Grant For Organizing Conference",
+  "State": "Central",
+  "details": "The \"Grant for Organizing Conference (GOC)\" scheme by AICTE provides financial assistance to institutions for organizing conferences in various fields of technical education. Both Onsite Conferences and Online Conferences are supported.",
+  "benefits": "Financial assistance to institutions for organizing conferences in various fields of technical education.",
+  "eligibility": [
+    "Institutions with at least 10 years of existence (at least 5 years if the institute is located in a rural area)",
+    "The Institute shall have more than 50% admission for the past 3 years",
+    "The department applying should not have received the MODROB project in the last two years"
+  ],
+  "application_process": [
+    "Online submission of application by the institution",
+    "Applications received every two months will be processed in a single lot",
+    "Screening/ scrutiny of applications at Council",
+    "Evaluation of applications by the expert committee",
+    "The final decision will be taken by the Council, keeping in view the recommendations made by the experts and the availability of funds for the scheme"
+  ],
+  "documents_required": [
+    "Application Form",
+    "Utilization Certificate",
+    "Project Completion Report",
+    "Verified Bank Mandate Form",
+    "Declaration Certificate"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://www.myscheme.gov.in/schemes/steu",
+  "scheme_name": "Stipend to Educated Unemployed",
+  "State": "Mizoram",
+  "details": "The Stipend to Educated Unemployed scheme was launched by the Social Welfare & Tribal Affairs Department, Government of Mizoram. Under this scheme, provides a stipend of \u20b9650 per month to assist 25 educated persons with disabilities who have registered in an Employment Exchange for over three years and have not been placed in gainful employment.",
+  "benefits": [
+    "Stipend of \u20b9650/- per month to the educated unemployed individuals with disabilities."
+  ],
+  "eligibility": [
+    "The applicant should be a resident of Mizoram.",
+    "The applicant should be a disabled person.",
+    "The applicant should be an educated unemployed registered with an Employment Exchange for at least three years.",
+    "The applicant should be from the Below Poverty Line (BPL) family."
+  ],
+  "application_process": [
+    "The applicant writes the application on plain paper.",
+    "In the application form attach copies of all the mandatory documents (self-attest, if required).",
+    "Submit the duly filled and signed application along with the documents to the District Social Welfare Office",
+    "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, a unique identification number (if applicable)."
+  ],
+  "documents_required": [
+    "Passport-size Photograph",
+    "UDID/Disability Certificate",
+    "Proof of BPL Status (Family Ration Card)",
+    "Photocopy of Bank Passbook (first page showing account holder's name and account number)",
+    "Registration Card of Employment Exchange"
+  ]
+}

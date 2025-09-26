@@ -1,0 +1,37 @@
+{
+  "url": "https://www.myscheme.gov.in/schemes/ignwpsb",
+  "scheme_name": "Indira Gandhi National Widow Pension Scheme- Bihar",
+  "State": "Bihar",
+  "details": "The scheme \"Indira Gandhi National Widow Pension Scheme\" is implemented by the Social Welfare Department, Government of Bihar. Under this scheme, a monthly pension is provided to widows in the age group of 40 to 79 years who belong to Below Poverty Line (BPL) families to support them financially. This scheme is centrally sponsored.",
+  "objective": "The objective of this scheme is to provide social security to the widows of poor families of the society by providing them financial assistance.",
+  "benefits": [
+    "Under this scheme, eligible widows will receive a monthly pension of \u20b9400/-."
+  ],
+  "eligibility": [
+    "The applicant should be a resident of Bihar.",
+    "The applicant should be a widow.",
+    "The widow's age should be between 40 and 79 years.",
+    "The widow should belong to a Below Poverty Line (BPL) family.",
+    "The widow should not be receiving pension benefits under any social security scheme."
+  ],
+  "application_process": [
+    "Offline",
+    "Step 1: To avail of the benefits of this scheme, eligible applicants should submit their duly filled and signed application in the prescribed format, along with the required attachments, at the Right to Public Service (RTPS) counter located at the block office level.",
+    "Step 2: Upon submission, applicants will receive an acknowledgment receipt from the RTPS counter, which should be kept for future reference.",
+    "Step 3: Applicants will be notified of the application's approval or rejection via SMS or email.",
+    "Step 4: If approved, the Sanction Order can be collected from the same RTPS counter where the application was submitted, upon presenting the acknowledgment receipt and a valid identity card."
+  ],
+  "documents_required": [
+    "Aadhaar card of the applicant",
+    "Passport-size photograph",
+    "Identity proof i.e. Voter ID Card, Driving License",
+    "Death certificate of husband",
+    "Residence Proof",
+    "Proof of age",
+    "Below Poverty Line (BPL) Card/related documents",
+    "Caste certificate, if applicable",
+    "Address proof",
+    "Bank Passbook/Bank account details",
+    "Any other documents as required"
+  ]
+}

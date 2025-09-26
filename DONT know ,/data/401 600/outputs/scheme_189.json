@@ -1,0 +1,38 @@
+{
+  "url": "https://www.myscheme.gov.in/schemes/naip",
+  "scheme_name": "Nationwide Artificial Insemination Programme",
+  "State": "Central",
+  "details": "The Nationwide Artificial Insemination Programme (NAIP), is a flagship program of the Department of Animal Husbandry and Dairying. The objective of the programme is to increase the productivity of livestock by improving the genetic potential through artificial insemination.",
+  "benefits": [
+    "Increased fertility rate: The programme will help to increase the fertility rate by providing access to artificial insemination services.",
+    "Improved quality of livestock: The programme will help to improve the quality of livestock through the use of improved semen from superior bulls.",
+    "Improved animal health: Artificial insemination will help to improve the health of animals by reducing the spread of diseases.",
+    "Increased production: The programme will help to increase the production of milk and meat, which will help to improve the economic status of farmers."
+  ],
+  "eligibility": [
+    "The livestock owner should be a resident of Madhya Pradesh.",
+    "The applicant should have valid livestock registration documents.",
+    "The applicant should have the required infrastructure to undertake AI operations.",
+    "The applicant should not belong to any of the scheduled castes and tribes.",
+    "The applicant should have the required knowledge and skill to undertake AI operations.",
+    "The applicant should not have any prior criminal record."
+  ],
+  "application_process": [
+    "Offline",
+    "1. Visit the official website of the Department of Animal Husbandry and Veterinary Services of Madhya Pradesh.",
+    "2. Locate the \u201cNationwide Artificial Insemination Programme\u201d link and click on it.",
+    "3. Read the instructions carefully and click on the \u201cApply Now\u201d button.",
+    "4. Fill out the application form with all the required information and submit it.",
+    "5. After submission, an acknowledgment will be sent to your registered email ID.",
+    "6. Wait for the confirmation mail from the Department of Animal Husbandry and Veterinary Services of Madhya Pradesh.",
+    "7. Once your application is approved, you will receive an AI Kit with all the necessary items required for the AI process.",
+    "8. Follow the instructions given in the AI kit and complete the process."
+  ],
+  "documents_required": [
+    "Proof of Identity: A valid government-issued photo ID such as an Aadhaar Card, Passport, or Voter ID Card.",
+    "Proof of Address: A valid government-issued proof of address such as an Aadhaar Card, Passport, Voter ID Card, Utility Bills, or Ration Card.",
+    "Medical Records: A copy of the last medical examination report, including the results of any tests conducted.",
+    "Consent Forms: A completed and signed consent form from both the donor and the recipient.",
+    "Photographs: A recent photograph of both the donor and the recipient"
+  ]
+}

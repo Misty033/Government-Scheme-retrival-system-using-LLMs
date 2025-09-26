@@ -1,0 +1,38 @@
+{
+  "url": "https://www.myscheme.gov.in/schemes/saepaep",
+  "scheme_name": "Scheme of Assistance for Environment Protection Measures: Scheme for assistance to Environment Management",
+  "State": "Gujarat",
+  "details": "The \"Scheme of Assistance for Environment Protection Measures\" is an umbrella scheme launched by the Industries and Mines Department, Gujarat under the Gujarat Industrial Policy. Effective from August 7th, 2020 to August 6th, 2025, this initiative promotes sustainable industrial growth by supporting industries in adopting eco-friendly practices and ensuring compliance with environmental norms.",
+  "benefits": [
+    "Implementation of cleaner production technology in place of existing processes such as substitution and optimization of raw materials, reduction water consumption or energy consumption, or waste generation",
+    "Upto 35% of the cost of plant and machinery with a ceiling of \u20b935,00,000/- during the operative period of the scheme for MSME",
+    "Upto 10% of the cost of plant and machinery with a ceiling of \u20b935,00,000/- during the operative period of the scheme for large projects"
+  ],
+  "eligibility": [
+    "The industry/unit must be registered under relevant industrial laws in Gujarat",
+    "The industry/unit must comply with existing environmental regulations and standards",
+    "The industry/unit must be engaged in manufacturing or production activities",
+    "The industry/unit must undertake projects focused on environmental protection measures"
+  ],
+  "application_process": [
+    "Offline",
+    "Step-1: The applicant enterprise has to fill out the prescribed application form",
+    "Step-2: Attach all relevant documents as required under the scheme guidelines",
+    "Step-3: Submit the completed application form and documents to the Industries Commissionerate or the concerned District Industries Centre",
+    "Step-4: Ensure that the application is submitted within six months from the date of completion of the activity or project"
+  ],
+  "documents_required": [
+    "Copy of the Constitution of Enterprise",
+    "Project Completion Certificate/ Commissioning Certificate with project completion date",
+    "Expenditure statement approved by Chartered Accountant in prescribed proforma as per Annexure ES1",
+    "Justification of the comparative benefits of the implemented project with details of data and % reduction in raw material/ water/ energy consumption or waste generation",
+    "Copy of EM registration/ IEM Part-B/ Udyog Aadhaar Memorandum (UAM)/ Udyam Registration (UR) (as the case may be)",
+    "GPCB NOC/CCA for the project",
+    "Process Diagram with brief note on existing and new technology adopted for the project",
+    "Last year balance sheet of enterprise",
+    "Bank statements for expenditures incurred in the project",
+    "Photographs of Project (minimum 3 photographs)",
+    "Copy of any other financial assistance granted by GoG and/or GoI for the same component/project (if not granted, then give undertaking)",
+    "Undertaking for outstanding Government dues and any pending court case against the government"
+  ]
+}

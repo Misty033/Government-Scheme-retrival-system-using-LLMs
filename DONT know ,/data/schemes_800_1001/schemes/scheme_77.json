@@ -1,0 +1,49 @@
+{
+  "url": "https://www.myscheme.gov.in/schemes/sstlsbc",
+  "scheme_name": "Shilp Sampada Term Loan Scheme for Backward Classes- Haryana",
+  "State": "Haryana",
+  "details": "The scheme provides loans of up to \u20b910,00,000/- to artisans & handicraft persons from backward classes to preserve traditional arts and crafts. The scheme also offers training to upgrade their existing skills with the latest technological inputs, such as the use of computers, CAD, etc.",
+  "benefits": [
+    "Loans up to \u20b910,00,000/- for artisans and handicraft persons.",
+    "Training to upgrade skills with latest technological inputs like computers and CAD."
+  ],
+  "eligibility": [
+    "The applicant should be a permanent resident of Haryana.",
+    "The applicant should be an artisan or a craftsperson.",
+    "The applicant should be between 18 and 35 years old.",
+    "The applicant should belong to the backward class category.",
+    "The applicant's annual family income should not exceed \u20b93,00,000/- in rural and urban areas."
+  ],
+  "application_process": [
+    "Registration Process on Antyodaya-SARAL Portal:",
+    "Step 01: The eligible applicant may apply online through the Official Portal- Antyodaya-SARAL Portal.",
+    "Step 02: If the applicant is not registered on the portal, he/she gets registered there.",
+    "Step 03: For registration, click \u201cNew User\u201d under \u2018Sign In Here\u2019 and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password & State. Click on \u2018Submit\u2019.",
+    "Step 04: Verify your mobile number and email ID through the received OTP and complete the registration process.",
+    "Login to apply for the scheme:",
+    "Step 01: To avail the benefits of the scheme, visit the Official Antyodaya-SARAL Portal and log in through the email ID used while registering.",
+    "Step 02: Enter Password & Captcha and click on \u2018Login\u2019.",
+    "Step 03: After successful login, click on \u2018Apply for Services\u2019 and then \u2018View all Available Services\u2019",
+    "Step 04: Now, you can search for the scheme and click on the scheme to go ahead and fill out the application form.",
+    "Step 05: Enter your Parivar Pehchan Patra number - Family ID and click on \u201cClick here to Fetch Family Data\u201d which displays the family members registered under the given Family ID.",
+    "Step 06: Select the beneficiary/applicant name and enter the OTP that is being sent to the selected family member for verification. Click on \u201cClick to Verify\u201d",
+    "Step 07: Fill in all the mandatory details and upload all the mandatory documents.",
+    "Step 08: Preview the application form and click on \u2018Submit\u2019.",
+    "Tracking of Application:",
+    "Applicants can track their applications through the Official Antyodaya-SARAL Portal by entering the Department Name, Scheme Name, and Application Reference ID."
+  ],
+  "documents_required": [
+    "Identity/Citizenship Proof (Any one of the following):",
+    "Aadhaar Card",
+    "Age Proof (Any one of the following):",
+    "Aadhaar Card",
+    "Resident Proof/Address Proof/Ownership Proof (Any one of the following):",
+    "Ration Card",
+    "Haryana Domicile Certificate",
+    "Caste/Religion Proof (Any one of the following):",
+    "Caste Certificate for reserved category",
+    "Photo of Applicant",
+    "Bank account details",
+    "Any other documents as required"
+  ]
+}

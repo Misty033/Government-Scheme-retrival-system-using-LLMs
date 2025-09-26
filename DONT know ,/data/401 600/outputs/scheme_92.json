@@ -1,0 +1,34 @@
+{
+  "url": "https://www.myscheme.gov.in/schemes/wbtwsam",
+  "scheme_name": "West Bengal Transport Workers\u2019 Social Security Scheme: Assistance for Marriage",
+  "State": "West Bengal",
+  "details": "The scheme provides financial aid for the marriage of eligible beneficiaries or their dependent sons/daughters (up to two marriages).",
+  "benefits": [
+    "\u20b910,000/- for the marriage of the beneficiary or their dependent children, with a maximum of two beneficiaries per family."
+  ],
+  "eligibility": [
+    "The applicant must be between 18 and 60 years of age at the time of enrolment.",
+    "The applicant must be an unorganized worker employed in the operation of commercial vehicles, such as cars, taxis, luxury taxis, light commercial vehicles, vans, auto-rickshaws, tempos, lorries, trucks, or buses.",
+    "The applicant\u2019s vehicle must be used for commercial purposes and not solely for personal or family use."
+  ],
+  "application_process": [
+    "Online application through the e-District portal.",
+    "Step 1: Visit the \u201ceDistrict 2.0\u201d portal. Click on Log In/Sign Up.",
+    "Step 2: In the User Login window, scroll down to the bottom and click on \u201cRegister\u201d.",
+    "Step 3: Fill in all the details carefully, enter a username, and click on \u201cRegister\u201d.",
+    "Step 4: Upon entering the One Time Password received on your mobile, you will be successfully registered.",
+    "Step 5: Now in the User Login window, enter your Username or email and captcha and click on \u201cSign In\u201d.",
+    "Step 6: Enter the received O.T.P and click on \u201cSubmit\u201d.",
+    "Step 7: Upon successful Login, You will be redirected to the \u201cDashboard\u201d. From the right side menu apply for the concerned scheme."
+  ],
+  "documents_required": [
+    "Certification by Prescribed Authority in the Prescribed format",
+    "Passport Size Photo (self and for each dependent member)",
+    "Age Proof Document",
+    "Driving Licence in case of Drivers",
+    "EPIC/ AADHAR Card",
+    "Dependent's Marriage certificate or affidavit confirming the marriage event",
+    "Proof of relationship",
+    "Any other documents (if required)"
+  ]
+}

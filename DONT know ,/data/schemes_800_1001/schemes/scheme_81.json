@@ -1,0 +1,38 @@
+{
+  "url": "https://www.myscheme.gov.in/schemes/gsae",
+  "scheme_name": "Gayathri Scheme for Academic Excellence",
+  "State": "Andhra Pradesh",
+  "details": "Andhra Pradesh Brahmin Welfare Corporation, a Government of Andhra Pradesh undertaking, launched the \u201cGayathri Scheme for Academic Excellence\u201d (GS-AE). Under this scheme, the topper of the school/ College/ Institute for the course will be recognized with a certain amount through the prescribed process. This scheme is applicable to students of Andhra Pradesh covering all 13 districts.",
+  "benefits": [
+    "SSC (10th): \u20b97,500/-",
+    "Intermediate or equivalent (Polytechnic, ITI at the end of Final Year): \u20b910,000/-",
+    "Graduation (at the end of Final Year): \u20b915,000/-",
+    "Professional Education Course (at the end of Final Year): \u20b9 20,000/-"
+  ],
+  "eligibility": [
+    "The student and his/her parents should belong to the Brahmin community.",
+    "The parents of the student should reside in Andhra Pradesh.",
+    "The student must be a regular (Full Time) student of the course for the academic year 2018-19.",
+    "The student should be the topper of the entire course (at the end of SSC/ Intermediate or equivalent /Graduation /Professional Edn. Course) in the School/ College/ Institute for the academic year 2018-19.",
+    "The toppers of SSC/ Intermediate or equivalent and Graduation should have completed the course in Andhra Pradesh. However, toppers of Professional Education Course may have completed the course from anywhere in India but the parents should be residing in Andhra Pradesh.",
+    "The student should not have availed himself/herself of any amount under any other government scheme for the same purpose."
+  ],
+  "application_process": [
+    "Online Registration",
+    "Fill out the application form with required details like: Personal Details, Upload: Photo, Signature and Certificate Details, Documents: Birth Certificate, Residential Certificate, Aadhaar Card, Caste Certificate, Bank Passbook etc",
+    "Finalize and \"Submit\" the application.",
+    "Receive the reference number after the submission.",
+    "Check Application Status",
+    "Download the Acknowledgement slip"
+  ],
+  "documents_required": [
+    "Aadhar Card of the Student (with address in Andhra Pradesh)",
+    "Aadhar Card of the Student Parents (with address in Andhra Pradesh)",
+    "Caste Certificate (issued by MeeSeva)",
+    "Residence Certificate (issued by MeeSeva)",
+    "Birth Certificate (issued by MeeSeva)",
+    "Topper Certificate (issued by the Head of the School/ College/ Institute, indicating that the student is topper of the school/ College/ Institute for the entire course for the academic year)",
+    "Mark Sheet",
+    "Bank Passbook"
+  ]
+}
