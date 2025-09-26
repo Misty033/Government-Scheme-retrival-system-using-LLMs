@@ -60,3 +60,5 @@ Answer natural language questions about specific schemes.
 1. Add multilingual support for regional audiences.
 2. Integrate real-time scheme updates.
 3. Scheme Validity Alerts and Updates for User
+
+## This project is a prototype version and had been deployed successfully in May, 2025.
